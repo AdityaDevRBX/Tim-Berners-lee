@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    color: white;
+    
+
+}
+
+.menu{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+
+}
+
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+
+}
+
+.profile{
+    border-radius: 30%;
+    width: 20%;
+}
+
+#welcome{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(to bottom, #3399ff 0%, #cc33ff 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+
+}
+
+h1{
+    font-size: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 100%;
+    color: white;
+
+}
+
+#name {
+    font-size: 50px;
+    font-family: cursive;
+
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
+}
+
+#bio{
+    font-family: cursive;
+    padding: 50px;
+    background: linear-gradient(to bottom, #cc33ff 0%, #3399ff 100%);
+
+}
+
+.line {
+    height: 6px;
+    background-color: white;
+    width: 70px;
+    margin: 8px auto;
+
+}
+
+
+.parallax-inner {
+    display: table-cell;
+    vertical-align: middle;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
